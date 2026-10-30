@@ -6,7 +6,7 @@ This repository was created to complete Tutorial 4 (Parts A and B). The purpose 
 
 ## Steps Followed to Complete the Tutorial
 1. Created a public repository on GitHub.
-2. Added a collaborator to the repository settings.
+2. Added a collaborator to the repository description.
 3. Initialized the repository with a README.md file detailing the project purpose and collaborators.
 4. Created a new branch to make edits.
 5. Committed changes to the branch and opened a Pull Request (PR).
