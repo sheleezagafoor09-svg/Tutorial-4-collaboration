@@ -15,6 +15,7 @@ This repository was created to complete Tutorial 4 (Parts A and B). The purpose 
 ## Collaborators Involved
 * Sheleeza Gafoor (GitHub: @sheleezagafoor09-svg)
 * Laurell Wray (GitHub: @Wrayray)
+* laurell.wray@gmail.com
 
 ## Course Details
 * Course: ITE1100 (Tutorial)
