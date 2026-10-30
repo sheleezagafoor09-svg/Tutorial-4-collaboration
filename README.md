@@ -1,5 +1,5 @@
 # Tutorial 4B Collaboration Project
-Tutorial 4B collaboration project with Laurell Wray (Wrayray)
+Tutorial 4B collaboration project with Laurell Wray (Wrayray) and Sheleeza Gafoor (sheleezagafoor09-svg)
 
 ## Purpose of the Repository
 This repository was created to complete Tutorial 4 (Parts A and B). The purpose is to demonstrate Git and GitHub collaboration workflows, including creating a public repository, managing a README file, and executing an approved Pull Request.
